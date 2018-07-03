@@ -1,0 +1,15 @@
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\bin\Debug\netcoreapp2.0\ApiLogger.deps.json
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\bin\Debug\netcoreapp2.0\ApiLogger.runtimeconfig.json
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\bin\Debug\netcoreapp2.0\ApiLogger.runtimeconfig.dev.json
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\bin\Debug\netcoreapp2.0\ApiLogger.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\bin\Debug\netcoreapp2.0\ApiLogger.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\obj\Debug\netcoreapp2.0\ApiLogger.csproj.CoreCompileInputs.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\obj\Debug\netcoreapp2.0\ApiLogger.AssemblyInfoInputs.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\obj\Debug\netcoreapp2.0\ApiLogger.AssemblyInfo.cs
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\obj\Debug\netcoreapp2.0\ApiLogger.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\obj\Debug\netcoreapp2.0\ApiLogger.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\obj\Debug\netcoreapp2.0\ApiLogger.csprojResolveAssemblyReference.cache
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\bin\Debug\netcoreapp2.0\ApiLogger.deps.json
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\bin\Debug\netcoreapp2.0\ApiLogger.runtimeconfig.json
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\bin\Debug\netcoreapp2.0\ApiLogger.runtimeconfig.dev.json
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\ApiLogger\ApiLogger\obj\Debug\netcoreapp2.0\ApiLogger.AssemblyInfo.cs

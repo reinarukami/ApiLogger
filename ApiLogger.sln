@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLogger", "ApiLogger\ApiLogger.csproj", "{B5A4B396-02CC-4FA3-AB55-E36238414C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A4B396-02CC-4FA3-AB55-E36238414C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A4B396-02CC-4FA3-AB55-E36238414C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A4B396-02CC-4FA3-AB55-E36238414C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A4B396-02CC-4FA3-AB55-E36238414C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0796CCA1-9239-42B6-A8AA-400D5D0E801F}
+	EndGlobalSection
+EndGlobal
